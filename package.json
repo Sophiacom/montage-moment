@@ -1,0 +1,19 @@
+{
+    "name": "montage-moment",
+    "author": {
+        "name": "Yoann Canal"
+    },
+    "version": "0.1.0",
+    "dependencies": {
+        "montage": "~0.14.0",
+        "moment": "^2.8.3"
+    },
+    "devDependencies": {
+        "montage-testing": "~0.4.0"
+    },
+    "exclude": [
+        "run-tests.html",
+        "test"
+    ],
+    "main": "core/moment.js"
+}
